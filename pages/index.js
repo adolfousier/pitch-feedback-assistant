@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures AI Google Ads Assistant Demo!" />
+        <Header title="Welcome to Mint Ventures AI Pitch Feedback Assistant Demo!" />
         <p className="description">
-          Help me with my google ads! Get started by clicking on the bot icon.
+          Share your press pitch, and this bot will give you feedback from the perspective of a senior journalist. Get started by clicking on the bot icon.
         </p>
       </main>
 
