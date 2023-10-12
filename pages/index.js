@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mint Ventures AI Pitch Feedback Assistant Demo!" />
         <p className="description">
-          Share your press pitch, and this bot will give you feedback from the perspective of a senior journalist. Get started by clicking on the bot icon.
+          Share your press pitch, and this bot will give you feedback from the perspective of a senior pitch deck analyst. Get started by clicking on the bot icon.
         </p>
       </main>
 
